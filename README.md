@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently working my way through [CSS for Javascript Developers](https://www.joshwcomeau.com/courses/) and building [Romcom Rater](https://github.com/aliceswood/romcom-rater) as I go.
+- 🌱 I’m currently studying for my AWS Cloud Practitioner exam and building [Romcom Rater](https://github.com/aliceswood/romcom-rater) in between studies.
 - 🤔 I’m looking for my first role in tech! I am very interested in finding a company that drives the HRTech, TravelTech, and HospitalityTech industries due to my previous roles and education.
 - 📫 How to reach me: come say hi on [LinkedIn](https://www.linkedin.com/in/alice-sophie-wood/).
 - 😄 Pronouns: She/Her
